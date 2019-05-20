@@ -1,5 +1,5 @@
 #!/bin/bash
-HOST="192.168.1.100"
+HOST="192.168.1.100" #CHANGE THIS FOR YOUR ELASTIC HOST
 ANO=`date +%Y`
 MES=`date +%m`
 DIA=`date +%d`
